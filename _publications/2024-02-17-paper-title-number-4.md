@@ -10,4 +10,4 @@ paperurl: ''
 citation: 'Nair, R., Tokas, B., Tseng, G., Rolf, E., & Kerner, H. (2025). Classification Drives Geographic Bias in Street Scene Segmentation. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 629–638).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+<!--Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.-->

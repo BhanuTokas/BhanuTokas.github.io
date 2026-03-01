@@ -20,7 +20,10 @@ My research interests include:
 
 News
 ========
-* **December 2025** Paper *“DPA: A one-stop metric to measure bias amplification in classification datasets”* accepted to **NeurIPS 2025**.  
+* **December 2025** Paper *“A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions”* published at **WACV 2026**.  
+  Introduces a contextual directional bias amplification for image captioning.
+
+* **December 2025** Paper *“DPA: A one-stop metric to measure bias amplification in classification datasets”* published at **NeurIPS 2025**.  
   Introduces a unified metric for measuring directional bias amplification.
 
 * **June 2025** Paper *“Classification Drives Geographic Bias in Street Scene Segmentation”* accepted to the **CVPR 2025 Workshop**.  
