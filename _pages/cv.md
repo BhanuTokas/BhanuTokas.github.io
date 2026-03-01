@@ -32,6 +32,7 @@ Research & Work Experience
 
 Teaching
 ======
+* **Teaching Assistant**, CSE 475: Foundations of ML — *Spring 2026*  
 * **Teaching Assistant**, CSE 475: Foundations of ML — *Fall 2024*  
 * **Teaching Assistant**, CSE 579: Intro to ML for Remote Sensing — *Spring 2024*  
 * **Grader**, CSE 475: Foundations of ML — *Fall 2023*  
