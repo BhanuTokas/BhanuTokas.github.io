@@ -1,0 +1,14 @@
+---
+title: "A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions"
+collection: publications
+category: conferences
+permalink: 'https://wacv.thecvf.com/virtual/2026/poster/300'
+excerpt: '
+Bias amplification for image captioning is different than classification. Impact of context of words in a sentence is missed by conventional bias amplification metrics. Metrics defined for image captioning are do not capture directionality and confound the source of biases. We propose a new metric that fixes these limitations.'
+date: 2026-03-08
+venue: 'WACV'
+paperurl: 'https://arxiv.org/abs/2503.07878'
+citation: 'TBA.'
+---
+
+<!--Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.-->

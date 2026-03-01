@@ -2,13 +2,13 @@
 title: "DPA: A one-stop metric to measure bias amplification in classification datasets"
 collection: publications
 category: conferences
-permalink: 'https://neurips.cc/virtual/2025/poster/116894'
+permalink: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/116894'
 excerpt: '
 Most ML datasets today contain biases. When we train models on these datasets, they often not only learn these biases but can worsen them --- a phenomenon known as bias amplification. We propose a better metric to measure bias amplification.'
 date: 2025-12-02
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2412.11060'
-citation: 'TBA'
+citation: 'Bhanu Tokas, Rahul Nair, & Hannah Kerner (2025). DPA: A one-stop metric to measure bias amplification in classification datasets. In The Thirty-ninth Annual Conference on Neural Information Processing Systems.'
 ---
 
 <!--Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.-->

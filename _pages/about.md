@@ -20,19 +20,19 @@ My research interests include:
 
 News
 ========
-* **December 2025** Paper *“A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions”* published at **WACV 2026**.  
+* **March 2026** Paper *“A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions”* published at **WACV 2026**.  
   Introduces a contextual directional bias amplification for image captioning.
 
 * **December 2025** Paper *“DPA: A one-stop metric to measure bias amplification in classification datasets”* published at **NeurIPS 2025**.  
   Introduces a unified metric for measuring directional bias amplification.
 
 * **June 2025** Paper *“Classification Drives Geographic Bias in Street Scene Segmentation”* accepted to the **CVPR 2025 Workshop**.  
-  Investigates how model classification steps can create geographic bias.
+  Investigates how different stages of model classification can contribute to geographic bias.
 
 * **May 2025** Paper *“Helmets Labeling Crops”* accepted in **Scientific Data** (Nature Publishing Group).  
   Introduces the Kenya Crop Type Dataset created via helmet-mounted cameras and deep learning.
 
-* **August 2024** Started my PhD in Computer Science at **Arizona State University**.
+* **August 2024** Started my PhD in Computer Science at **Arizona State University** under the supervision of Dr. Hannah Kerner.
 
 * **May 2024** Defended MS thesis *“Yuksel Splines for Probabilistic Sequence Prediction”* at **ASU**. 
   Graduated from Masters with a 4.0 GPA.
