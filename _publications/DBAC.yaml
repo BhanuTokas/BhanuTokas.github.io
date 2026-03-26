@@ -3,8 +3,7 @@ title: "A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias
 collection: publications
 category: conferences
 permalink: 'https://wacv.thecvf.com/virtual/2026/poster/300'
-excerpt: '
-Bias amplification for image captioning is different than classification. Impact of context of words in a sentence is missed by conventional bias amplification metrics. Metrics defined for image captioning are do not capture directionality and confound the source of biases. We propose a new metric that fixes these limitations.'
+excerpt: 'Bias amplification for image captioning is different than classification. Impact of context of words in a sentence is missed by conventional bias amplification metrics. Metrics defined for image captioning are do not capture directionality and confound the source of biases. We propose a new metric that fixes these limitations.'
 date: 2026-03-08
 venue: 'WACV'
 paperurl: 'https://openaccess.thecvf.com/content/WACV2026/html/Nair_A_Woman_with_a_Knife_or_A_Knife_with_a_WACV_2026_paper.html'

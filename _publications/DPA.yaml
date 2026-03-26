@@ -3,8 +3,7 @@ title: "DPA: A one-stop metric to measure bias amplification in classification d
 collection: publications
 category: conferences
 permalink: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/116894'
-excerpt: '
-Most ML datasets today contain biases. When we train models on these datasets, they often not only learn these biases but can worsen them --- a phenomenon known as bias amplification. We propose a better metric to measure bias amplification.'
+excerpt: 'Most ML datasets today contain biases. When we train models on these datasets, they often not only learn these biases but can worsen them --- a phenomenon known as bias amplification. We propose a better metric to measure bias amplification.'
 date: 2025-12-02
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/pdf/2412.11060'
