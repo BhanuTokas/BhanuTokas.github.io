@@ -20,6 +20,9 @@ My research interests include:
 
 News
 ========
+* **June 2026** Paper *“MOMO: Mars Orbital MOdel Foundation Model for Mars Orbital Applications”* published at **CVPR 2026**.  
+  Introduces the first foundation model for Mars Orbital Tasks.
+
 * **March 2026** Paper *“A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions”* published at **WACV 2026**.  
   Introduces a contextual directional bias amplification for image captioning.
 

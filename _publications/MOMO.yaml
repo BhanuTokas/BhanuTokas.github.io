@@ -1,0 +1,13 @@
+---
+title: "MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications"
+collection: publications
+category: conferences
+permalink: 'https://cvpr.thecvf.com/virtual/2026/poster/37297'
+excerpt: 'Multi scale foundation model for Mars Orbital Applications. The proposed model uses task arithmetic to multi-scale information in a single model.'
+date: 2026-06-06
+venue: 'CVPR'
+paperurl: 'https://arxiv.org/pdf/2412.11060'
+citation: 'Purohit, Mirali, Bimal Gajera, Irish Mehta, Bhanu Tokas, Jacob Adler, Steven Lu, Scott Dickenshied et al. "MOMO: Mars Orbital Model Foundation Model for Mars Orbital Applications." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 27772-27782. 2026.'
+---
+
+<!--Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.-->
